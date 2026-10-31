@@ -27,4 +27,5 @@ mensagem. Nenhuma mensagem foi enviada, e o recebimento no telefone não foi
 testado. Safari, iPhone e Android físicos não foram testados. O site no Sites
 é público. Domínio próprio não foi configurado.
 
-Endereço atual: https://alexcastroservicos.contato-riosuldistri.chatgpt.site
+Endereço preparado para GitHub Pages: https://marketingavestra.github.io/alexcastro/
+A ativação e a publicação no GitHub Pages ainda precisam ser confirmadas.

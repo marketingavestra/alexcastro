@@ -1,6 +1,6 @@
 # Alex Castro — portfólio de serviços
 
-**Site online:** https://alexcastroservicos.contato-riosuldistri.chatgpt.site
+**Endereço do GitHub Pages (após ativação):** https://marketingavestra.github.io/alexcastro/
 
 Site responsivo em português, com foco em celular e identidade pessoal de Alex Castro. Paleta azul e branca, retratos fornecidos, apresentação em vídeo e orçamento que continua no WhatsApp.
 
@@ -18,7 +18,7 @@ Acesse `http://localhost:4187`. Para colocar em uma hospedagem estática própri
 - `dist/styles.css`: identidade visual, layouts responsivos e movimento reduzido.
 - `dist/app.js`: menu, animações de entrada, diálogo de orçamento e reprodução do vídeo.
 - `dist/assets/`: imagens otimizadas, vídeo original, ícone e fonte Inter com licença OFL.
-- `.openai/hosting.json`: identidade do site público hospedado com Sites.
+- `.openai/hosting.json`: identidade da hospedagem anterior no Sites, preservada como referência.
 
 ## Atendimento e contato
 
@@ -33,3 +33,18 @@ Fotos e vídeo fornecidos pelo usuário. O vídeo está intacto e menciona origi
 Referência visual: https://www.lkclinic.shop — retrato em destaque, marca pessoal, tipografia limpa e ações grandes para celular. O layout, os textos e o monograma deste projeto foram criados para Alex Castro.
 
 O site foi preparado com HTML, CSS e JavaScript independentes de framework. Os recursos visuais respeitam a preferência do sistema por movimento reduzido. As imagens têm versões leves para a web e o vídeo só é carregado para reprodução quando solicitado.
+
+## Hospedar no GitHub Pages
+
+A branch `main` contém o projeto completo. A branch `gh-pages` contém somente os arquivos publicáveis da pasta `dist/`, na raiz, com `.nojekyll`. Os arquivos são estáticos e não precisam de compilação.
+
+Para ativar a hospedagem deste repositório:
+
+1. Abra https://github.com/marketingavestra/alexcastro/settings/pages
+2. Em **Build and deployment**, selecione **Deploy from a branch**.
+3. Em **Branch**, escolha **gh-pages** e **/(root)**; clique em **Save**.
+4. Aguarde o GitHub concluir a publicação. O endereço será https://marketingavestra.github.io/alexcastro/
+
+A integração utilizada nesta sessão permite gravar os arquivos e branches, mas não alterar a configuração de GitHub Pages. A ativação acima precisa ser feita por um administrador do repositório.
+
+Para atualizar o site depois, altere os arquivos em `dist/` na `main` e publique seu conteúdo na raiz da branch `gh-pages`. Não há sincronização automática configurada entre as branches.
