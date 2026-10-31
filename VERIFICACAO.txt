@@ -24,5 +24,7 @@ referências locais e âncoras encontradas. Revisão visual de celular e desktop
 
 Limites: a abertura do WhatsApp foi interceptada para conferir endereço e
 mensagem. Nenhuma mensagem foi enviada, e o recebimento no telefone não foi
-testado. Safari, iPhone e Android físicos não foram testados. A prévia no Sites
-é privada; acesso público e domínio próprio não foram configurados.
+testado. Safari, iPhone e Android físicos não foram testados. O site no Sites
+é público. Domínio próprio não foi configurado.
+
+Endereço atual: https://alexcastroservicos.contato-riosuldistri.chatgpt.site

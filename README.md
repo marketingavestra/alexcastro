@@ -1,5 +1,7 @@
 # Alex Castro — portfólio de serviços
 
+**Site online:** https://alexcastroservicos.contato-riosuldistri.chatgpt.site
+
 Site responsivo em português, com foco em celular e identidade pessoal de Alex Castro. Paleta azul e branca, retratos fornecidos, apresentação em vídeo e orçamento que continua no WhatsApp.
 
 ## Abrir e editar
@@ -16,7 +18,7 @@ Acesse `http://localhost:4187`. Para colocar em uma hospedagem estática própri
 - `dist/styles.css`: identidade visual, layouts responsivos e movimento reduzido.
 - `dist/app.js`: menu, animações de entrada, diálogo de orçamento e reprodução do vídeo.
 - `dist/assets/`: imagens otimizadas, vídeo original, ícone e fonte Inter com licença OFL.
-- `.openai/hosting.json`: identidade da prévia privada publicada com Sites.
+- `.openai/hosting.json`: identidade do site público hospedado com Sites.
 
 ## Atendimento e contato
 
