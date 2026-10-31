@@ -1,0 +1,28 @@
+ALEX CASTRO — VERIFICAÇÃO DO SITE
+Data: 31/10/2026
+
+Navegador usado: Chromium do Electron, executado localmente no macOS.
+
+22 grupos de verificações passaram:
+- Layout sem rolagem horizontal nas larguras 320, 375, 390, 430, 768 e 1440 px.
+- Menu: abertura, links, clique fora, Escape e restauração de foco.
+- As oito categorias de serviços selecionam a opção correta no orçamento.
+- Diálogo: botão de fechar, Escape, clique fora e foco de retorno.
+- Campos obrigatórios e valores contendo apenas espaços são rejeitados.
+- Mensagem de orçamento conserva acentos e caracteres especiais, informa
+  Santa Maria / RS e usa o destino https://wa.me/5555991830318.
+- Edição dos campos limpa o resultado anterior da mensagem.
+- Perguntas frequentes operam por Enter e Espaço.
+- Vídeo carregou, reproduziu e pausou. Duração: 15 segundos.
+- Preferência por movimento reduzido desativa as animações e mantém o conteúdo.
+- Sem JavaScript, textos, serviços, contato direto e controles de vídeo continuam disponíveis.
+- Retrato da apresentação preserva a proporção 1:1 nas seis larguras.
+- Assets disponíveis, sem imagens quebradas ou erros HTTP / JavaScript.
+
+Verificações adicionais: sintaxe de JavaScript válida, IDs únicos e todas as
+referências locais e âncoras encontradas. Revisão visual de celular e desktop.
+
+Limites: a abertura do WhatsApp foi interceptada para conferir endereço e
+mensagem. Nenhuma mensagem foi enviada, e o recebimento no telefone não foi
+testado. Safari, iPhone e Android físicos não foram testados. A prévia no Sites
+é privada; acesso público e domínio próprio não foram configurados.
