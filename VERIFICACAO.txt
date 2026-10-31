@@ -24,8 +24,11 @@ referências locais e âncoras encontradas. Revisão visual de celular e desktop
 
 Limites: a abertura do WhatsApp foi interceptada para conferir endereço e
 mensagem. Nenhuma mensagem foi enviada, e o recebimento no telefone não foi
-testado. Safari, iPhone e Android físicos não foram testados. O site no Sites
-é público. Domínio próprio não foi configurado.
+testado. Safari, iPhone e Android físicos não foram testados. A hospedagem principal no GitHub Pages é pública.
+Domínio próprio não foi configurado.
 
-Endereço preparado para GitHub Pages: https://marketingavestra.github.io/alexcastro/
-A ativação e a publicação no GitHub Pages ainda precisam ser confirmadas.
+Endereço público confirmado: https://marketingavestra.github.io/alexcastro/
+Verificação anônima da publicação: página, CSS, JavaScript, imagem WebP,
+vídeo MP4 e fonte responderam HTTP 200, sem necessidade de login.
+O HTML publicado contém o título correto e os oito serviços; os metadados
+apontam para o GitHub Pages e não contêm o endereço da hospedagem anterior.

@@ -1,6 +1,6 @@
 # Alex Castro — portfólio de serviços
 
-**Endereço do GitHub Pages (após ativação):** https://marketingavestra.github.io/alexcastro/
+**Site online no GitHub Pages:** https://marketingavestra.github.io/alexcastro/
 
 Site responsivo em português, com foco em celular e identidade pessoal de Alex Castro. Paleta azul e branca, retratos fornecidos, apresentação em vídeo e orçamento que continua no WhatsApp.
 
@@ -38,13 +38,11 @@ O site foi preparado com HTML, CSS e JavaScript independentes de framework. Os r
 
 A branch `main` contém o projeto completo. A branch `gh-pages` contém somente os arquivos publicáveis da pasta `dist/`, na raiz, com `.nojekyll`. Os arquivos são estáticos e não precisam de compilação.
 
-Para ativar a hospedagem deste repositório:
+A hospedagem está ativa. Se precisar conferir ou reconfigurar a origem:
 
 1. Abra https://github.com/marketingavestra/alexcastro/settings/pages
 2. Em **Build and deployment**, selecione **Deploy from a branch**.
 3. Em **Branch**, escolha **gh-pages** e **/(root)**; clique em **Save**.
-4. Aguarde o GitHub concluir a publicação. O endereço será https://marketingavestra.github.io/alexcastro/
-
-A integração utilizada nesta sessão permite gravar os arquivos e branches, mas não alterar a configuração de GitHub Pages. A ativação acima precisa ser feita por um administrador do repositório.
+4. Aguarde o GitHub concluir qualquer nova publicação. O endereço é https://marketingavestra.github.io/alexcastro/
 
 Para atualizar o site depois, altere os arquivos em `dist/` na `main` e publique seu conteúdo na raiz da branch `gh-pages`. Não há sincronização automática configurada entre as branches.
